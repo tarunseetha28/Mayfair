@@ -1,0 +1,55 @@
+.cus-cw-heading{
+    font-family: "Inter", sans-serif;
+font-size: 45px;
+font-weight: 700;
+
+text-align: center;
+
+}
+.colored-bg{
+    background: #B797E2;
+    border-radius: 100px;
+    
+}
+.cus-h3{
+    font-family: "Inter", sans-serif;
+font-size: 22px;
+font-weight: 400;
+line-height: 26.63px;
+text-align: left;
+
+}
+.cus-p{
+    font-family: "Inter", sans-serif;
+font-size: 20px;
+font-weight: 500;
+text-align: center;
+
+}
+.cus-btn{
+    font-family: "Inter", sans-serif;
+font-size: 22px;
+font-weight: 700;
+line-height: 29.05px;
+text-align: center;
+color: #9747FF;
+
+}
+ .custom-btn {
+background-color: #5B45A7; /* Similar purple shade */
+border: none;
+     font-family: "Inter", sans-serif;
+}
+.custom-btn:hover {
+background-color: #5a4bcf; /* A bit darker on hover */
+}
+.accordion-button {
+--bs-accordion-btn-bg: #F5F7FB;
+    color: #422E7F;
+  font-family: "Inter", sans-serif;
+font-size: 18px;
+font-weight: 600;
+line-height: 33.89px;
+text-align: left;
+
+}
